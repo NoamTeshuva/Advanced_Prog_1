@@ -1,0 +1,18 @@
+# Custom Shell Program
+
+## Overview
+
+This project is a simple implementation of a custom shell in C. The shell supports basic commands, including input/output redirection and pipes.
+
+## Files
+
+- `myshell.c`: The main source code file containing the implementation of the custom shell.
+- `Makefile`: The makefile for compiling the shell program.
+- `README.md`: This readme file.
+
+## Compilation
+
+To compile the shell program, simply run the `make` command:
+
+```sh
+make
